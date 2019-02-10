@@ -1,5 +1,5 @@
 # curso-omnistack-api
-API do clone do twitter desenvolvido no curso com NodeJS
+API em NodeJS do clone do twitter desenvolvido no curso da Rocketseat.
 
 Nesta api desenvolvemos funcionalidades como:
   Login (neste projeto apenas armazenamos o nome do usuario para adicionar aos tweets),
