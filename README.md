@@ -9,3 +9,6 @@ Nesta api desenvolvemos funcionalidades como:
   Listagem dos Tweets, 
   
   Realtime com Socket.io.
+
+
+https://github.com/Rocketseat
